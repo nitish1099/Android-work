@@ -1,0 +1,5 @@
+                                                                   iOSpasscodelock
+
+This is a recreation of the passcode style lock found in iOS devices.I made this because i wanted this kind of lock in my app and coudn't find any 
+source over the interweb so this is my creation for you guys .And also i didnt even try to make it look like the one in iOS ,just the functionality
+.I hope you guys will appreciate my work and you are free to use it , the password is hardcoded to 1234.
